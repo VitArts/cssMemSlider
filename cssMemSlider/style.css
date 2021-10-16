@@ -113,6 +113,23 @@ body {
 
 @media only screen and (max-width: 768px) {
 
+	.slider-css .slider-dot {
+    width: 100%;
+    margin-left: 0;
+		justify-content: center;
+}
 
+.slider-css .text {
+	top: 2rem;
+	position: relative;
+}
+
+.slider-css .slide img {
+	height: 60vh;
+}
+
+.slider-css .slider-wrapper {
+height: 80vh;
+}
 
 }
