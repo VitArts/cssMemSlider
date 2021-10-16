@@ -40,8 +40,8 @@ body {
 .slider-css .slider-dot label {
 	cursor: pointer;
 	border-radius: 100%;
-	width: 12px;
-	height: 12px;
+	height: 0.75rem;
+	width: 0.75rem;
 	border: 0.125rem solid #609de9;
 	background: #609de9;
 	-webkit-transition: all 0.3s;
